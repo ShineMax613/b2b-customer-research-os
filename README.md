@@ -84,6 +84,8 @@ b2b-customer-research-os/
 │
 ├── README.md
 ├── LICENSE
+├── ROADMAP.md
+├── CONTRIBUTING.md
 │
 ├── templates/
 │   ├── buyer-intent-analysis.md
@@ -93,8 +95,16 @@ b2b-customer-research-os/
 ├── checklists/
 │   └── end-user-vs-distributor-vs-competitor.md
 │
-└── prompts/
-    └── customer-background-research-prompt.md
+├── prompts/
+│   └── customer-background-research-prompt.md
+│
+├── examples/
+│   └── hotel-supplies-facebook-lead.md
+│
+└── tools/
+    └── lead-score-calculator/
+        ├── README.md
+        └── lead_score_calculator.py
 ```
 
 ## Planned Repository Structure
