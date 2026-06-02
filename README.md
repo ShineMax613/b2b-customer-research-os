@@ -77,7 +77,7 @@ Use AI to assist with customer research, lead analysis, message writing, and fol
 9. Write the next follow-up message
 10. Update the lead status
 
-## Recommended File Structure
+## Current Repository Structure
 
 ```text
 b2b-customer-research-os/
@@ -86,9 +86,31 @@ b2b-customer-research-os/
 ├── LICENSE
 │
 ├── templates/
+│   ├── buyer-intent-analysis.md
+│   ├── company-background-check.md
+│   └── person-role-analysis.md
+│
+├── checklists/
+│   └── end-user-vs-distributor-vs-competitor.md
+│
+└── prompts/
+    └── customer-background-research-prompt.md
+```
+
+## Planned Repository Structure
+
+```text
+b2b-customer-research-os/
+│
+├── README.md
+├── LICENSE
+├── ROADMAP.md
+├── CONTRIBUTING.md
+│
+├── templates/
+│   ├── buyer-intent-analysis.md
 │   ├── company-background-check.md
 │   ├── person-role-analysis.md
-│   ├── buyer-intent-analysis.md
 │   ├── lead-quality-scorecard.md
 │   └── follow-up-strategy-template.md
 │
@@ -114,6 +136,7 @@ b2b-customer-research-os/
     ├── distributor-analysis-example.md
     └── linkedin-prospect-analysis-example.md
 ```
+
 
 ## Example Use Cases
 
