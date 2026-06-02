@@ -1,5 +1,7 @@
 # B2B Customer Research OS
 
+**Current release:** v0.1 - Initial Foundation
+
 An open-source customer research and lead analysis system for B2B exporters, manufacturers, and global sales teams.
 
 This project helps export sales teams analyze potential customers before sending quotations, catalogs, price lists, or follow-up messages.
